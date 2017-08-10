@@ -3,5 +3,16 @@ body{
   font-family: 'century gothic', helvetica, arial, sans-serif;
   font-size: 20px;
   line-height: 1.5;
-  width: 100%;
+  /*width: 100%;*/
 }
+.wrapper .container{
+    background-color: #fff;
+}
+.header-top{text-align: center; border-bottom: solid 1px #061d44;}
+.header-top a img{width: 240px; margin: 30px 20px;}
+#pre-order{background-color: #0a0; color: #fff;}
+.header-bottom{background-color: #061d44; color: #fff; text-align: center; height: 60px; line-height: 60px;}
+.header-bottom nav ul{background-color: #061d44; padding-left: 0px;}
+.header-bottom nav ul li{list-style: none; display: block;}
+.header-bottom nav ul li:hover, #pre-order:hover{background-color: #3398fc; color: #061d44 !important;}
+.header-bottom nav ul li a{text-decoration: none; color: #fff; padding: 15px; width: 100%;}
