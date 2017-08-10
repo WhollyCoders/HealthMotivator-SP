@@ -1,0 +1,30 @@
+nav .container{
+  padding: 0px;
+  text-align: center;
+  border-bottom: solid 3px #061d44;
+}
+nav .container ul{
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+nav .container ul li{
+  background-color: #061d44;
+  height: 45px;
+  line-height: 45px;
+  width: 100%;
+}
+nav .container ul li a{
+  color: #fff;
+  width: 100%;
+  text-transform: capitalize;
+}
+
+#preorder-link{background-color: green; color: #fff;}
+
+nav .container ul li:hover, nav .container ul li:hover a, #preorder-link:hover{
+  background-color: #fff;
+  color: #061d44;
+  text-decoration: none;
+}
+
+#rtp-success-nav{background-color: #061d44; height: 45px;}

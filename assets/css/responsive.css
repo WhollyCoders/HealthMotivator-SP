@@ -1,0 +1,10 @@
+@media screen and (min-width: 995px) {
+/*Header Navigation*/
+  nav .container{background-color: #061d44; height: 48px; line-height: 48px;}
+  nav .container ul li{display: inline; width: 180px; height: 45px; line-height: 45px;}
+  nav .container ul li a{padding: 15px;}
+
+  nav .container ul li#preorder-link{padding: 15px 0px;}
+/*Feature Container*/
+  .feature-container{text-align: center;}
+}

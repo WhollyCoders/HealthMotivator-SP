@@ -1,0 +1,55 @@
+/********* HOME ********/
+.container section{color: #fff; margin: 15px 40px 30px 40px;}
+.container section h2{color: #97abe6; font-family: 'arial black', impact, sans-serif;}
+
+#rtp-home{background-color: #7886a3; padding: 15px 0px;}
+
+.rtp-cta a{text-decoration: none; color: #ddd; text-transform: capitalize; padding: 5px 10px; font-style: italic; font-size: 14px;}
+a#rtp-learnmore:hover{background-color: #fff; border-radius: 5px; color: #061d44;}
+
+.rtp-features{background-color: #fff; padding: 30px 20px; text-align: center; min-height: 500px;}
+.feature-container{padding: 15px 20px;}
+
+.rt-sidebar{background-color: #fff; padding: 15px 20px;}
+.sidebar-item h3{margin: 15px 20px 10px 20px;}
+.event-content{padding: 15px 10px;}
+.event-content ul{margin: 0px auto;}
+.event-content ul li{list-style: none;}
+.event-content ul li a{text-transform: capitalize;}
+
+/******* ABOUT *******/
+.banner-about img{width: 100%; height: auto;}
+
+#rtp-about{background-color: #eee; color: #061d44; padding: 15px 0px;}
+#rtp-about section{color: #061d44;}
+
+/************ CONTACT ********/
+.banner-contact img{width: 100%; height: auto;}
+
+#rtp-contact{background-color: #eee; color: #061d44; padding: 15px 0px; min-height: 860px; min-width: 320px;}
+#rtp-contact section{color: #061d44;}
+#rtp-contact-content{float: right; padding-bottom: 15px;}
+#rtp-contact-details{margin: 30px 0px;}
+
+#form-contact{padding-bottom: 30px;}
+
+.rtp-sidebar{float: left;}
+.rtp-sidebar ul li{list-style: none;}
+
+/************ SERVICES ********/
+#rtp-services{background-color: #eee; color: #061d44; padding: 15px 0px 15px 40px;}
+#rtp-services section{color: #061d44;}
+/************ PROGRAMS ********/
+#rtp-programs{background-color: #eee; color: #061d44; padding: 15px 0px 15px 40px;}
+#rtp-programs section{color: #061d44;}
+/************ EVENTS ********/
+#rtp-events{background-color: #eee; color: #061d44; padding: 15px 0px 15px 40px;}
+#rtp-events section{color: #061d44;}
+
+/********** ORDER ***********/
+#rtp-preorder-col4, #rtp-preorder-col8, #rtp-services{padding: 30px 40px; background-color: #eee;}
+/*#rtp-preorder-col8, #rtp-services{min-height: 578px;}*/
+.rtp-book-img img{width: 240px; height: auto; text-align: left; margin: 30px 10px;}
+
+/************ SCHEDULE *********/
+#rtp-schedule{padding: 30px 40px; background-color: #eee;}
